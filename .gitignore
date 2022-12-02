@@ -1,0 +1,3 @@
+# ignore ALL files in one folder
+__pycache__/
+venv/
