@@ -1,11 +1,11 @@
-[
+sample = [
     {
         "id": 1,
         "first_name": "Rene",
         "last_name": "Clemmett",
         "email": "rclemmett0@linkedin.com",
         "gender": "Male",
-        "ip_address": "42.86.99.75"
+        "ip_address": "42.86.99.75",
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "last_name": "Chrishop",
         "email": "rchrishop1@bloomberg.com",
         "gender": "Male",
-        "ip_address": "197.128.10.252"
+        "ip_address": "197.128.10.252",
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "last_name": "Cocklie",
         "email": "jcocklie2@ustream.tv",
         "gender": "Male",
-        "ip_address": "124.81.44.28"
+        "ip_address": "124.81.44.28",
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "last_name": "Catt",
         "email": "dcatt3@sogou.com",
         "gender": "Female",
-        "ip_address": "169.47.61.184"
+        "ip_address": "169.47.61.184",
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "last_name": "Shellsheere",
         "email": "qshellsheere4@icq.com",
         "gender": "Male",
-        "ip_address": "2.57.97.184"
+        "ip_address": "2.57.97.184",
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "last_name": "Paull",
         "email": "lpaull5@tmall.com",
         "gender": "Female",
-        "ip_address": "121.4.165.63"
+        "ip_address": "121.4.165.63",
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "last_name": "Lamswood",
         "email": "clamswood6@hud.gov",
         "gender": "Female",
-        "ip_address": "78.65.53.3"
+        "ip_address": "78.65.53.3",
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "last_name": "Nequest",
         "email": "jnequest7@virginia.edu",
         "gender": "Male",
-        "ip_address": "62.24.98.224"
+        "ip_address": "62.24.98.224",
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "last_name": "Boeter",
         "email": "vboeter8@addthis.com",
         "gender": "Male",
-        "ip_address": "87.119.34.255"
+        "ip_address": "87.119.34.255",
     },
     {
         "id": 10,
@@ -77,6 +77,6 @@
         "last_name": "Eades",
         "email": "jeades9@amazon.de",
         "gender": "Female",
-        "ip_address": "159.173.99.31"
-    }
+        "ip_address": "159.173.99.31",
+    },
 ]

@@ -1,5 +1,5 @@
 # Setup the python virtual environment
-python3.9 -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 # Install all necessary library
